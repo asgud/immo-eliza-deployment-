@@ -179,7 +179,7 @@ plotly>=5.0.0
 
 | Project | Description |
 |---------|-------------|
-| [Immo-Eliza-ML](https://github.com/yourusername/immo-eliza-ml) | Model training and experimentation |
+| [Immo-Eliza-ML](https://github.com/asgud/immo-eliza-ML) | Model training and experimentation |
 
 
 ---
