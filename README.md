@@ -6,7 +6,7 @@ A machine learning-powered web application that predicts real estate prices in B
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-ML-orange?style=for-the-badge)
 
-🔗 **Live Demo:** [immo-eliza-predict.streamlit.app](https://asgud-immo-eliza-deployment--app-xw0uom.streamlit.app/)
+🔗 **Live Demo:** [immo-eliza-predict.streamlit.app](https://immo-eliza-pricepredict.streamlit.app//)
 
 ---
 
