@@ -81,17 +81,17 @@ if __name__ == "__main__":
 
     price, metrics = predict_price(test_property)
 
-    # # Display result
-    # print("=" * 50)
-    # print("PREDICTION RESULT")
-    # print("=" * 50)
-    # print(f"\n💰 Predicted Price: €{price:,.2f}")
-    # print(f"\n📊 Model Performance:")
-    # print(f"   R²:   {metrics['val_r2']:.4f}")
-    # print(f"   MAE:  ±€{metrics['val_mae']:,.0f}")
-    # print(f"   RMSE: ±€{metrics['val_rmse']:,.0f}")
-    # print(f"\n📍 Price Range (using MAE):")
-    # print(f"   Low:  €{price - metrics['val_mae']:,.2f}")
-    # print(f"   High: €{price + metrics['val_mae']:,.2f}")
-    # print("=" * 50)
+    # Display result
+    print("=" * 50)
+    print("PREDICTION RESULT")
+    print("=" * 50)
+    print(f"\n💰 Predicted Price: €{price:,.2f}")
+    print(f"\n📊 Model Performance:")
+    print(f"   R²:   {metrics['val_r2']:.4f}")
+    print(f"   MAE:  ±€{metrics['val_mae']:,.0f}")
+    print(f"   RMSE: ±€{metrics['val_rmse']:,.0f}")
+    print(f"\n📍 Price Range (using MAE):")
+    print(f"   Low:  €{price - metrics['val_mae']:,.2f}")
+    print(f"   High: €{price + metrics['val_mae']:,.2f}")
+    print("=" * 50)
 
